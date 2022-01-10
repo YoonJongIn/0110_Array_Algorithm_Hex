@@ -29,5 +29,6 @@ public class SequenceIntSearchEx {
 		if (i == n) {  //여기에 8이 대입된다.
 			System.out.println(find + "을(를) 찾을 수 없습니다.");
 		}
+		scan.close();
 	}
 }
