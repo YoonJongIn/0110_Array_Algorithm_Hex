@@ -1,5 +1,5 @@
 package 검색알고리즘예제;
-
+// 수정
 import java.util.Scanner;
 
 /*
