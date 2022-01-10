@@ -22,5 +22,6 @@ public class SequenceStringSearchEx {
 		if(i == name.length) {
 			System.out.println(find + "을(를) 찾을 수 없습니다.");
 		}
+		scan.close();
 	}
 }
